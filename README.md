@@ -27,13 +27,13 @@
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uztm&show_icons=true&theme=radical" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uztm&theme=radical" />
 </p>
 
 ## 🎯 Let's Connect!  
-📬 Reach me at [Your Email] or find me on [LinkedIn](linkedin.com/in/tmbekzod)  
+📬 Reach me at [Email](tmbekzod05@gmail.com) or find me on [LinkedIn](linkedin.com/in/tmbekzod)  
 
 ---
 
